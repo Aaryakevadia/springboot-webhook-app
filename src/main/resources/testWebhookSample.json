@@ -1,0 +1,16 @@
+{
+  "candidate": {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phone": "+1234567890"
+  },
+  "submission": {
+    "language": "JAVA",
+    "githubUrl": "https://github.com/johndoe/webhook-solution",
+    "resumeUrl": "https://example.com/resume.pdf"
+  },
+  "metadata": {
+    "timestamp": "2025-05-21T12:00:00Z",
+    "source": "assignment"
+  }
+}
